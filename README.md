@@ -72,7 +72,7 @@ In the daily-buzz/ directory, make a directory called business/ and change direc
 List all files and directories in the business/ directory. 11.
 
 **Artusi_cmd_project
-use commands to manipulate the files and directories of Artusi, an arts supply Store.
+use commands to manipulate the files and directories of Artusi, an arts supply Store.**
 
 Print the working directory. 2.
 
