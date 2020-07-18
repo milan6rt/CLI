@@ -1,6 +1,5 @@
 # CLI
-Some samples of CLI
-Bicycle World
+**Some samples of CLI Bicycle World**
 
 Welcome to Bicycle World, the premier text-based bicycle shop! This shop is only accessible to programmers like you, who are familiar with the command line.
 
